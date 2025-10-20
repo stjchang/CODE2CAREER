@@ -1,0 +1,10 @@
+1. Listen
+2. Clarify
+3. Function Signature
+    talk about what hte problem is
+    what is the goal
+    what is the return
+    what parameters
+
+4. Brute Force (Big O) 
+5. 
